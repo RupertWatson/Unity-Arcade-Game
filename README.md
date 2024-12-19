@@ -10,7 +10,7 @@ Collect shooting stars to unlock temporary powerups.
 
 Unlock 5 unique characters!
 
-Thanks for playing, and comment your highscore! 
+Thanks for playing!
 
 ## Demo
 ![Preview](Demo.gif)
